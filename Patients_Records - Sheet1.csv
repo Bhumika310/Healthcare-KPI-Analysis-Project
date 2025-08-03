@@ -1,0 +1,11 @@
+Patient_ID,Admission_Date,Department,Length_of_Stay,Bed_Utilization,Fall_Incident,Staff_Count,Satisfaction_Score,Discharge_Type,Age,Gender,Diagnosis
+P001,2023-01-12,Cardiology,4,85,No,6,4.3,Routine,65,F,Heart Disease
+P002,2023-01-15,Orthopedics,6,90,Yes,5,3.8,Transfer,72,M,Fracture
+P003,2023-01-20,Neurology,8,78,No,4,4.7,Expired,80,F,Stroke
+P004,2023-02-03,Oncology,10,92,Yes,7,4,Routine,68,M,Cancer
+P005,2023-02-07,Pediatrics,3,88,No,6,4.6,Transfer,9,F,Viral Infection
+P006,2023-02-15,General Med,5,80,Yes,5,3.9,Routine,45,M,Fever
+P007,2023-02-20,Orthopedics,6,86,No,5,4.4,Expired,70,M,Joint Pain
+P008,2023-03-01,Cardiology,7,89,Yes,4,4.1,Routine,63,F,Arrhythmia
+P009,2023-03-10,Neurology,4,76,No,3,4.9,Transfer,58,M,Migraine
+P010,2023-03-15,General Med,5,83,No,6,4.5,Routine,50,F,Diabetes
